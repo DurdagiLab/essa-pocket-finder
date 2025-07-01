@@ -15,7 +15,7 @@ Required Python Packages
 
 **These dependencies are listed in the requirements.txt file.
 
--Installation Instructions
+Installation Instructions:
 To install the required packages, we recommend using a virtual environment. Then run the following command in your terminal:
 
 > pip install -r requirements.txt
