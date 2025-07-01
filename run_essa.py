@@ -1,13 +1,13 @@
 """
-###############################################################################################################
+##########################################################################################################################
 Title: ESSA Analysis and Allosteric Pocket Prediction Tool
 
 Developed by: Mine Isaoglu, Ph.D.
 Principal Investigator: Serdar Durdagi, Ph.D.
-Affiliation: Computational Drug Design Center (HITMER), Faculty of Pharmacy,
-             Bahçeşehir University, Istanbul, Turkey
+Affiliation: Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University, Istanbul, Turkey
+
 Version: September 2024
-###############################################################################################################
+##########################################################################################################################
 """
 
 import os
