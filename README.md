@@ -41,10 +41,10 @@ Parameter	    Description	                            Required
 # Output Files:
 Upon successful execution, the following files will be generated:
 
-- `ESSA_Results.txt` – Detailed analysis log and Z-score outputs  
-- `ESSA_Profile.png` – Visualization of residue-based ESSA Z-scores  
-- `pocket_ranks.csv` – Ranked list of predicted allosteric pockets  
-- `essa_zscores.pdb` – PDB file annotated with ESSA Z-score data
+- `ESSA_Results.txt` - Detailed analysis log and Z-score outputs  
+- `ESSA_Profile.png` - Visualization of residue-based ESSA Z-scores  
+- `pocket_ranks.csv` - Ranked list of predicted allosteric pockets  
+- `essa_zscores.pdb` - PDB file annotated with ESSA Z-score data
 
 **Ligand information is optional but may help guide analysis in ligand-bound states.
 
@@ -52,8 +52,3 @@ Upon successful execution, the following files will be generated:
 If you use this tool in your academic work, please cite:
 
 Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University, Istanbul, Turkey
-
-
-
-
-
