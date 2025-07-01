@@ -31,12 +31,12 @@ After installation, the ESSA analysis script can be executed from the command li
 
 > python run_essa.py -p <protein.pdb> [-l <LIGAND>] [-r <RESNUM>] [-c <CHAIN>]
 
-Command-Line Arguments
-Argument	Description	Required
--p, --pdb	Input PDB file (e.g., protein.pdb)	Yes
--l	Ligand residue name (e.g., ATP)	Optional
--r	Ligand residue number (e.g., 456)	Optional
--c	Ligand chain ID (e.g., A)	Optional
+Command-Line Arguments:
+Parameter	    Description	                            Required
+-p, --pdb	    Input PDB file (e.g., protein.pdb)      Yes
+-l	          Ligand residue name (e.g., ATP)	        Optional
+-r            Ligand residue number (e.g., 456)       Optional
+-c	          Ligand chain ID (e.g., A)	              Optional
 
 # Output Files:
 Upon successful execution, the following files will be generated:
