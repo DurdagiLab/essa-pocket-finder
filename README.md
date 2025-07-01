@@ -1,7 +1,7 @@
 # essa-pocket-finder
 ***essa-pocket-finder*** is a Python-based computational tool developed for the identification and ranking of allosteric sites in protein structures using the Essential Site Scanning Analysis (ESSA) method. By incorporating normal mode analysis, this tool evaluates the impact of residue perturbations on global protein dynamics to detect residues and surface pockets that may serve regulatory or allosteric functions. It supports optional ligand-based contextual analysis and outputs residue Z-score profiles and ranked pocket predictions. The tool is intended for researchers working in structure-based drug design, protein dynamics, and allosteric modulation.
 
-The ***ESSA methodology*** implemented in this tool is based on the following publication: Kaynak, B. T., Bahar, I., & Doruker, P. (2020). Essential site scanning analysis: A new approach for detecting sites that modulate the dispersion of protein global motions. Computational and Structural Biotechnology Journal, 18, 1577–1586. https://doi.org/10.1016/j.csbj.2020.06.020
+The ***ESSA methodology*** implemented in this tool is based on the following publication: Kaynak, B. T., Bahar, I., & Doruker, P. (2020). Essential site scanning analysis: A new approach for detecting sites that modulate the dispersion of protein global motions. Computational and Structural Biotechnology Journal, 18, 1577-1586. https://doi.org/10.1016/j.csbj.2020.06.020
 
 # Requirements & Installation
 This tool was developed using Python and relies on several scientific computing libraries. Please ensure the following packages are installed in your environment:
