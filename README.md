@@ -49,6 +49,6 @@ Upon successful execution, the following files will be generated:
 **Ligand information is optional but may help guide analysis in ligand-bound states.
 
 # Citation
-If you use this tool in your academic work, please cite:
+If you use this tool in your research or publication, please cite it as follows:
 
 Isaoğlu, M., & Durdağı, S. (2025). ESSA Pocket Finder (Version 1.0) [Computer software]. Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University. https://github.com/DurdagiLab/essa-pocket-finder
