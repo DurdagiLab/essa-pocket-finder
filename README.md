@@ -51,4 +51,4 @@ Upon successful execution, the following files will be generated:
 # Citation
 If you use this tool in your academic work, please cite:
 
-Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University, Istanbul, Turkey
+Isaoğlu, M., & Durdağı, S. (2025). Essa‑Pocket‑Finder (Version 1.0) [Computer software]. Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University. https://github.com/DurdagiLab/essa-pocket-finder
